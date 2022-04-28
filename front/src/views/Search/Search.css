@@ -1,0 +1,30 @@
+.card {
+    width: 90%;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px 1rem;
+    font-size: 1.2rem;
+}
+
+.name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 5px 0;
+}
+
+.info {
+    font-size: .8rem;
+    color: #99a9bf;
+}
+
+.a-name{
+    text-decoration: none;
+    color: black;
+}
+
+.a-name:hover {
+    text-decoration: underline;
+    color: red;
+}

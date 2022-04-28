@@ -1,0 +1,61 @@
+.header {
+    border: 1px solid #ebebeb;
+    margin-bottom: 24px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    background-color: #fff;
+    z-index: 3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    vertical-align: middle;
+}
+
+.search {
+   display: inline-block;
+   margin-right: 5px;
+}
+
+.site {
+    display: inline;
+    margin-left: 60px;
+}
+.site-img {
+    border-radius: 50%;
+    width: 42px;
+}
+
+.site:hover {
+   cursor: pointer;
+}
+
+.title {
+    margin-top: 1rem;
+    float: right;
+    color: #493f35;
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: .008em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.search-button {
+    display: inline-block;
+}
+
+.search-container {
+
+}
+
+.user {
+    display: inline;
+    margin-left: 3rem;
+    margin-right: 60px;
+}
+
+.user:hover {
+    cursor: pointer;
+}

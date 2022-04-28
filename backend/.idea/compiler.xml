@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader" />
+        <module name="businessServer" />
+        <module name="OfflineRecommender" />
+        <module name="ItemCFRecommender" />
+        <module name="ContentRecommender" />
+        <module name="StatisticsRecommender" />
+        <module name="OnlineRecommender" />
+        <module name="CalRating" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="businessServer" target="1.8" />
+      <module name="CalRating" target="1.8" />
+      <module name="ContentRecommender" target="1.8" />
+      <module name="DataLoader" target="1.8" />
+      <module name="ECommerceRecommendSystem" target="1.8" />
+      <module name="ItemCFRecommender" target="1.8" />
+      <module name="OfflineRecommender" target="1.8" />
+      <module name="OnlineRecommender" target="1.8" />
+      <module name="recommender" target="1.8" />
+      <module name="StatisticsRecommender" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+127.0.0.1 - - [09/Apr/2022:11:40:24 +0800] "GET /business/favicon.ico HTTP/1.1" 404 961 http-bio-8088-exec-1 398
+127.0.0.1 - - [09/Apr/2022:11:40:26 +0800] "GET /business/rest/users/login?username=admin&password=123456 HTTP/1.1" 200 148 http-bio-8088-exec-2 295
+127.0.0.1 - - [09/Apr/2022:11:40:29 +0800] "GET /business/rest/product/stream?username=admin&num=5 HTTP/1.1" 200 6694 http-bio-8088-exec-3 233
+127.0.0.1 - - [09/Apr/2022:11:40:29 +0800] "GET /business/rest/product/hot?username=admin&num=5 HTTP/1.1" 200 1462 http-bio-8088-exec-4 29
+127.0.0.1 - - [09/Apr/2022:11:40:29 +0800] "GET /business/rest/product/rate?username=admin&num=5 HTTP/1.1" 200 1691 http-bio-8088-exec-5 23
+127.0.0.1 - - [09/Apr/2022:11:40:29 +0800] "GET /business/rest/product/offline?username=admin&num=5 HTTP/1.1" 200 6642 http-bio-8088-exec-6 75
+127.0.0.1 - - [09/Apr/2022:11:40:36 +0800] "GET /business/rest/product/info/62138 HTTP/1.1" 200 392 http-bio-8088-exec-7 10
+127.0.0.1 - - [09/Apr/2022:11:40:36 +0800] "GET /business/rest/product/itemcf/62138 HTTP/1.1" 200 3364 http-bio-8088-exec-8 30
+127.0.0.1 - - [09/Apr/2022:11:40:36 +0800] "GET /business/rest/product/contentbased/62138 HTTP/1.1" 200 39 http-bio-8088-exec-9 14
+127.0.0.1 - - [09/Apr/2022:11:41:15 +0800] "GET /business/rest/product/info/NaN HTTP/1.1" 400 968 http-bio-8088-exec-10 9
+127.0.0.1 - - [09/Apr/2022:11:41:27 +0800] "GET /business/rest/product/info/57272 HTTP/1.1" 200 410 http-bio-8088-exec-1 4
+127.0.0.1 - - [09/Apr/2022:11:41:27 +0800] "GET /business/rest/product/itemcf/57272 HTTP/1.1" 200 3385 http-bio-8088-exec-2 15
+127.0.0.1 - - [09/Apr/2022:11:41:27 +0800] "GET /business/rest/product/contentbased/57272 HTTP/1.1" 200 362 http-bio-8088-exec-3 6

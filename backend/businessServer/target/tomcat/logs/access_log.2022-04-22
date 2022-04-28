@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Apr/2022:18:41:00 +0800] "GET /business/rest/users/collect?userId=1&newsId=200 HTTP/1.1" 200 28 http-bio-8088-exec-1 405
+0:0:0:0:0:0:0:1 - - [22/Apr/2022:18:42:47 +0800] "GET /business/rest/users/collect?userId=1&newsId=200 HTTP/1.1" 200 27 http-bio-8088-exec-3 136
+0:0:0:0:0:0:0:1 - - [22/Apr/2022:19:46:31 +0800] "GET /business/rest/users/collect?userId=1&newsId=200 HTTP/1.1" 200 28 http-bio-8088-exec-5 55
+0:0:0:0:0:0:0:1 - - [22/Apr/2022:20:10:02 +0800] "GET /business/rest/users/collect?userId=1&newsId=100 HTTP/1.1" 200 27 http-bio-8088-exec-7 13

@@ -1,0 +1,43 @@
+.decription {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.list {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: white;
+    min-height: 15rem;
+}
+
+.card {
+    width: 90%;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px 1rem;
+    font-size: 1.2rem;
+}
+
+.name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 5px 0;
+}
+
+.info {
+    font-size: .8rem;
+    color: #99a9bf;
+}
+
+.a-name{
+    text-decoration: none;
+    color: black;
+}
+
+.a-name:hover {
+    text-decoration: underline;
+    color: red;
+}
